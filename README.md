@@ -1,0 +1,4 @@
+cinnamoncoin
+============
+
+experiment in cryptocurrency
